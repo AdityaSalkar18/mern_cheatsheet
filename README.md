@@ -32,3 +32,8 @@ nodemon server
 
 //db path
 DB=mongodb://0.0.0.0:27017/aditya
+
+//to check v update
+npm install -g npm-check-updates
+npx npm-check-updates
+
